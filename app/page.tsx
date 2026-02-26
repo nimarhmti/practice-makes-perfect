@@ -15,6 +15,10 @@ const navList: navLinks[] = [
     label: "formik",
     link: "/formik",
   },
+  {
+    label: "limit order",
+    link: "/limit-order",
+  },
 ];
 export default function Home() {
   return (
