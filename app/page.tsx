@@ -19,6 +19,10 @@ const navList: navLinks[] = [
     label: "limit order",
     link: "/limit-order",
   },
+  {
+    label: "input mask",
+    link: "/input-mask",
+  },
 ];
 export default function Home() {
   return (
